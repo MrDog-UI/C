@@ -5,7 +5,7 @@
   "permissions": [
     "activeTab",
     "scripting",
-    "snipping tool"
+    "gallery"
   ],
   "action": {
     "default_popup": "popup.html"
