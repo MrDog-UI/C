@@ -1,11 +1,11 @@
 {
   "manifest_version": 3,
-  "name": "Text Screenshot with ChatGPT",
+  "name": "C",
   "version": "1.0",
   "permissions": [
     "activeTab",
     "scripting",
-    "storage"
+    "Snipping Tool"
   ],
   "action": {
     "default_popup": "popup.html"
